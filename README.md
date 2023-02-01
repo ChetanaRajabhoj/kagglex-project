@@ -1,4 +1,4 @@
-project_name
+Kagglex Bipoc Project
 ==============================
 
 This folder contains the project files for kagglex Bipoc program
