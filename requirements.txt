@@ -1,0 +1,12 @@
+# local package
+-e .
+
+# external requirements
+python=3.9.13
+tensorflow
+jupyter notebook
+pandas
+numpy
+matplotlib
+seaborn
+sklearn
