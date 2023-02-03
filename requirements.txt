@@ -10,3 +10,4 @@ numpy
 matplotlib
 seaborn
 sklearn
+conda install -c conda-forge scikit-lego
